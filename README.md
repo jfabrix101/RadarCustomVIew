@@ -8,4 +8,4 @@ The test activity show how to use the custom view and start/stop the radar anima
 
 Screenshot
 
-![Alt text](http://www.github.com/jfabrix101/RadarCustomView/Screenshot.png "Example")
+![Alt text](https://github.com/jfabrix101/RadarCustomVIew/blob/master/Screenshot.png "Example")
